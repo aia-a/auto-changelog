@@ -1,0 +1,11 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-aia-a:aia-a/auto-changelog.git",
+  "author": "aia <163338564+aia-a@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
