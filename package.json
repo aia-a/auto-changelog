@@ -6,6 +6,10 @@
   "author": "aia <163338564+aia-a@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
   }
 }
